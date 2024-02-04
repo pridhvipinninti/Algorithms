@@ -1,2 +1,2 @@
-MLR - Dataset(collegeData.csv)
-OLS - (anxiety.csv)
+1. MLR - Dataset(collegeData.csv)
+2. OLS - (anxiety.csv)
